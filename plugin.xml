@@ -15,8 +15,8 @@
         <clobbers target="WiFiInfo" />
     </js-module>
     
-    <dependency id="org.apache.cordova.device" />
-    <dependency id="org.apache.cordova.console" />
+    <dependency id="cordova-plugin-device" />
+    <dependency id="cordova-plugin-console" />
 
     <!-- android -->
     <platform name="android">
