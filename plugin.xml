@@ -8,8 +8,8 @@
     <description>Cordova get SSID WiFI information Android and iOS</description>
     <license>GPL v3</license>
     <keywords>cordova,toasts, notification</keywords>
-    <repo>https://github.com/KinG-InFeT/WiFiInfo.git</repo>
-    <issue>https://github.com/KinG-InFeT/WiFiInfo/issues</issue>
+    <repo>https://github.com/FranzMari/WiFiInfo.git</repo>
+    <issue>https://github.com/FranzMari/WiFiInfo/issues</issue>
 
     <js-module src="www/wifiinfo.js" name="wifiinfo">
         <clobbers target="WiFiInfo" />
